@@ -1,0 +1,15 @@
+section {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
+#left-box {
+    border: 1px solid blue;
+    margin: 30px;
+}
+
+#right-box {
+    border: 1px solid red;
+    margin: 30px;
+}
